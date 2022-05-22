@@ -3,10 +3,10 @@
 Link for dataset:
 
 LFM-1b:
-'http://drive.jku.at/ssf/s/readFile/share/1056/266403063659030189/publicLink/LFM-1b.zip'
+'http://www.cp.jku.at/datasets/LFM-1b/'
 
 LFM-1b UGP:
-'http://www.cp.jku.at/datasets/LFM-1b/LFM-1b_UGP.zip'
+'http://www.cp.jku.at/datasets/LFM-1b/'
 
 LFM-1b social:
 dataset link: https://zenodo.org/record/5585638

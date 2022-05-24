@@ -76,6 +76,8 @@ a random classifier.
 
 • Feature inmprtance score is generated.
 
+Results are stored as CSV files under the result folder.
+
 # References
 
 paper link: https://arxiv.org/abs/2111.00562
